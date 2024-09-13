@@ -1,0 +1,7 @@
+* 38d12d8 (HEAD -> master) Addition of find2
+* 5d43156 Addition of resume of previous practice
+| * 7e90b51 (cualquiera) Addition of cuarto.text
+| * f6d531f New branch with tercero.text
+|/  
+* 2ab0c57 Second addition folder1 plus vacio.text
+* 8ae18ba Addition of two texts
